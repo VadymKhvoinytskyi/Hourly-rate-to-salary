@@ -1,0 +1,42 @@
+{
+    "start_year": 2023,
+    "start_month": 1,
+    "start_day": 31,
+    "end_year": 2023,
+    "end_month": 12,
+    "end_day": 31,
+    "currency": "EUR",
+    "paid": 0,
+    "hourly_rate": 10,
+    "missed_hours": 0,
+    "weekday":{
+        "0": {
+            "name": "Monday",
+            "hours": 8
+        },
+        "1": {
+            "name": "Tuesday",
+            "hours": 8
+        },
+        "2": {
+            "name": "Wednesday",
+            "hours": 8
+        },
+        "3": {
+            "name": "Thursday",
+            "hours": 8
+        },
+        "4": {
+            "name": "Friday",
+            "hours": 8
+        },
+        "5": {
+            "name": "Saturday",
+            "hours": 0
+        },
+        "6": {
+            "name": "Sunday",
+            "hours": 0
+        }
+    }
+}
